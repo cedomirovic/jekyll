@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sta radi ovaj sajt?"
-date:   2016-12-112 23:34:56
+date:   2016-12-12 23:34:56
 ---
 
 
