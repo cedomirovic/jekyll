@@ -1,9 +1,9 @@
 {% if paginator.total_pages > 1 %}
 <div class="pagination"> 
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prethodna</a>
   {% else %}
-    <span>&laquo; Prev</span>
+    <span>&laquo; Prethodna</span>
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
@@ -17,9 +17,9 @@
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Sledeća &raquo;</a>
   {% else %}
-    <span>Next &raquo;</span>
+    <span>Sledeća &raquo;</span>
   {% endif %}
 </div>
 {% endif %}
