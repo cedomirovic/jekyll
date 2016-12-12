@@ -14,6 +14,10 @@ description: > # this means to ignore newlines until "baseurl:"
   Redefinisanje IT oglasa. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
+  Redefinisanje objavljivanja IT oglasa. 
+baseurl: "/jekyll/" # the subpath of your site, e.g. /blog
+url: "https://cedomirovic.github.io" # the base hostname & protocol for your site
+
 
 permalink: :title/
 
@@ -42,5 +46,3 @@ sass:
 include: [_pages]
 
 gems: [jekyll-paginate, jekyll-seo-tag]
-
-animated: false
