@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: O projektu
+permalink: /oprojektu/
 ---
 
 Vyaasa is a Jekyll theme created for a no-distraction reader-friendly websites. It is free and open source project. 

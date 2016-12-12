@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sta radi ovaj sajt?"
-date:   2016-12-12 23:34:56
+title:  "Redefinisanje IT zapošljavanja!"
+date:   2016-12-11 23:34:56
 ---
 
 

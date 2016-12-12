@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: Kontakt
+permalink: /kontakt/
 ---
 <style>
 .contact-li {
