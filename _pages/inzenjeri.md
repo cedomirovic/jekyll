@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Inženjeri
+title: Inzenjeri
 permalink: /inzenjeri/
 ---
 
-Kako Inženjeri mogu da budu bolji
+Kako Inzenjeri mogu da budu bolji
