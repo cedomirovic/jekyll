@@ -11,9 +11,9 @@ title-font-size: '4em' # a provision to adjust the size of your title. If it is 
 
 email: cedomirovicnemanja@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Redefinisanje objavljivanja IT oglasa. 
-baseurl: "https://github.com/cedomirovic/jekyll/" # the subpath of your site, e.g. /blog
-url: "https://cedomirovic.github.io/jekyll" # the base hostname & protocol for your site
+  Redefinisanje IT oglasa. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 
 permalink: :title/
 
@@ -25,10 +25,10 @@ paginate_path: /page:num/
 
 
 # Tracker
-#analytics: UA-83979019-1
+analytics: UA-83979019-1
 
 # Comments
-#disqus-shortname: webjeda-demo
+disqus-shortname: webjeda-demo
 
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
