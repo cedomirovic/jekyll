@@ -13,7 +13,7 @@ email: cedomirovicnemanja@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Redefinisanje objavljivanja IT oglasa. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cedomirovic.github.io/jekyll" # the base hostname & protocol for your site
+url: "https://cedomirovic.github.io/jekyll/" # the base hostname & protocol for your site
 
 permalink: :title/
 
