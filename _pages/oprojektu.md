@@ -18,9 +18,7 @@ Svi ti neki ne tako sjajni primeri u 99% slučajeva se ogledaju prilikom objave 
 Misija iza ovog projekta je da pokušam da redefinišem način kako se objavljuju ili kako se prijavljuje na IT oglase. Sa jedne strane kompanije moraju radikalno da promene svoje opise poslova koje nude, sada je već postalo preveliko šegačenje na račun oglasa da to više nema smisla. Sa druge strane osobe koje žele da dobiju posao, ili menjaju trenutni, moraju se ponašati profesnilano i da budu profesionalci u svakom trenutku. 
 
 Na stranici **[Kompanije](https://cedomirovic.github.io/jekyll/kompanije/)** možete pronaći savete kako napisati IT oglas. 
-Stranica **[Inženjeri](https://cedomirovic.github.io/jekyll/inzenjeri/)** je zadužena da objasni kako se prijaviti na neki IT oglas i na koji način predstaviti sebe kao profesinalca. Dok na **[Početnoj](https://cedomirovic.github.io/jekyll/)**  stranici možete videti trenutno dostupne oglase ili profile stručnjaka. 
-
-
+Stranica **[Inženjeri](https://cedomirovic.github.io/jekyll/inzenjeri/)** je zadužena da objasni kako se prijaviti na neki IT oglas i na koji način predstaviti sebe kao profesionalca. Dok na **[Početnoj](https://cedomirovic.github.io/jekyll/)**  stranici možete videti trenutno dostupne oglase ili profile stručnjaka. 
 
 
 
