@@ -1,0 +1,301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"marg",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"je",
+				"Jekyll: New post"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL ",
+				"Install Package Control"
+			],
+			[
+				"syn y",
+				"Set Syntax: YAML"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cedomirovic/Desktop/jekyll"
+	],
+	"file_history":
+	[
+		"/Users/cedomirovic/Desktop/jekyll/_includes/header.html",
+		"/Users/cedomirovic/Desktop/jekyll/_pages/kontakt.md",
+		"/Users/cedomirovic/Desktop/jekyll/_includes/footer.html",
+		"/Users/cedomirovic/Desktop/jekyll/_includes/pagination.html",
+		"/Users/cedomirovic/Desktop/jekyll/_includes/mailchimp.html",
+		"/Users/cedomirovic/Desktop/jekyll/_layouts/post.html",
+		"/Users/cedomirovic/Desktop/jekyll/_config.yml",
+		"/Users/cedomirovic/pool/_config.yml",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje copy 2.md",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje copy 3.md",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje copy 4.md",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje copy 5.md",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje copy.md",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje.md",
+		"/Users/cedomirovic/Desktop/jekyll/_includes/color-bar.html",
+		"/Users/cedomirovic/Desktop/jekyll/_pages/about.md",
+		"/Users/cedomirovic/Desktop/jekyll/_pages/contact.md",
+		"/Users/cedomirovic/Desktop/jekyll/index.html",
+		"/Users/cedomirovic/Desktop/jekyll/README.md",
+		"/Users/cedomirovic/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
+		"/Users/cedomirovic/Library/Application Support/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
+		"/Users/cedomirovic/Desktop/jekyll/_layouts/page.html",
+		"/Users/cedomirovic/Desktop/jekyll/_includes/head.html",
+		"/Users/cedomirovic/Desktop/jekyll/_layouts/default.html",
+		"/Users/cedomirovic/Desktop/jekyll/_site/index.html",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-cedomirovic.md",
+		"/Users/cedomirovic/Desktop/jekyll/_layouts/compress.html",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-09-18-vyaasa.md",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-09-17-welcome-to-jekyll.markdown",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-09-16-all-text.md",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-05-07-example.md",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-05-07-documentation.md",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-04-05-welcome-to-jekyll-2.markdown",
+		"/Users/cedomirovic/Desktop/nemanja-test/_config.yml",
+		"/Users/cedomirovic/Downloads/emagine/-- phpMyAdmin SQL Dump.sql",
+		"/Applications/MAMP/htdocs/emagine/wp-content/themes/evont/inc/titlebar.php",
+		"/Users/cedomirovic/Downloads/fonis",
+		"/Applications/MAMP/htdocs/emagine/wp-config.php",
+		"/Users/cedomirovic/Downloads/Kec sajt/backup/-- phpMyAdmin SQL Dump",
+		"/Applications/MAMP/htdocs/kec/wp-config.php",
+		"/Users/cedomirovic/Downloads/Kaizen-2.svg",
+		"/Users/cedomirovic/Downloads/reveal.js-3.3.0/index.html",
+		"/Users/cedomirovic/Library/LaunchAgents/org.TraktForVLC.plist",
+		"/Users/cedomirovic/Downloads/TraktForVLC-master/config.ini",
+		"/Users/cedomirovic/Downloads/org.TraktForVLC.plist",
+		"/Users/cedomirovic/cedomirovic.github.com/_posts/2016-10-15-hello-world.md",
+		"/Users/cedomirovic/Desktop/nemanja/index.html",
+		"/Users/cedomirovic/Desktop/nemanja/_layouts/default.html",
+		"/Users/cedomirovic/cedomirovic/_config.yml",
+		"/Users/cedomirovic/Desktop/nemanja/_layouts/post.html",
+		"/Users/cedomirovic/Desktop/nemanja/_layouts/compress.html",
+		"/Users/cedomirovic/Desktop/nemanja/_layouts/page.html",
+		"/Users/cedomirovic/Desktop/nemanja/_config.yml",
+		"/Users/cedomirovic/Desktop/nemanja/about.md",
+		"/Users/cedomirovic/Desktop/nemanja/_site/index.html",
+		"/Users/cedomirovic/Downloads/upload.php",
+		"/Users/cedomirovic/Downloads/lastpass.csv",
+		"/Users/cedomirovic/Downloads/style.css",
+		"/Users/cedomirovic/Documents/Virtual Machines.localized/IE11 - Win7.vmwarevm/IE11 - Win7.vmx",
+		"/Users/cedomirovic/Downloads/config.js",
+		"/private/etc/hosts",
+		"/Users/cedomirovic/Downloads/app.js",
+		"/Users/cedomirovic/Downloads/server.js",
+		"/Users/cedomirovic/Downloads/package.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/cedomirovic/Desktop/jekyll"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"via",
+			"post",
+			"include",
+			"Project",
+			"         ",
+			"          ",
+			"           ",
+			"          ",
+			"         ",
+			"          ",
+			"         ",
+			"        ",
+			"       ",
+			"•    ",
+			"      ",
+			"     ",
+			"    ",
+			"   ",
+			"seo",
+			"§ ",
+			"• ",
+			"        ○ ",
+			"- ",
+			"hind",
+			"usb.present",
+			"ethernet0.present = “TRUE”",
+			"thernet0.present = “TRUE”",
+			"dark",
+			"1395ba",
+			"#1395ba",
+			"0d3c55",
+			"section-overlay-layer",
+			".testimonials",
+			"button",
+			"#0d3c55",
+			"f16c20",
+			".standard-button",
+			".standard-button, .navbar-register-button",
+			"h1.intro",
+			"font-family",
+			"font-f",
+			"font"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#346d7c",
+			"e08071"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jekyll.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

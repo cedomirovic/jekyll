@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "IT Poslovi"
+title: "IT poslovi"
 title-font-size: '4em' # a provision to adjust the size of your title. If it is too long then do resize to a smaller value. By default it will be 4em.
 
 email: cedomirovicnemanja@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Redefinisanje IT oglasa. 
+  Redefinisanje IT oglasa
 baseurl: "/jekyll" # the subpath of your site, e.g. /blog
 url: "https://cedomirovic.github.io" # the base hostname & protocol for your site
 

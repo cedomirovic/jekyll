@@ -16,12 +16,13 @@
 }
 
 .site-title {
-    font-size: $title-font-size;
-    line-height: 2;
-    letter-spacing: -1px;
-    margin-bottom: 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: 10px;
+    margin-bottom: 10px;
     text-align: center;
-    text-shadow: 0 0 1px;
+    margin-top: 15px;
+    /*text-shadow: 0 0 1px;*/
     &,
     &:visited {
         color: $grey-color;
@@ -33,6 +34,15 @@
     @include media-query($on-palm) {
             font-size: 2.75em;
     }
+}
+
+
+.site-description {
+    line-height: 2;
+    letter-spacing: 3px;
+    margin-bottom: 15px;
+    text-align: center;
+    /* text-shadow: 0 0 1px; */
 }
 
 
