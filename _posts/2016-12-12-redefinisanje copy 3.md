@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Redefinisanje IT zaposljavanja!"
+title:  "Test post!"
 date:   2016-12-11 23:34:56
 ---
 
