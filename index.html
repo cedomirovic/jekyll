@@ -6,6 +6,21 @@ layout: default
 
   <h1 class="post-title">Otvorene pozicije</h1>
 
+    <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <span class="post-meta"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
+        </h2>
+         
+      </li>
+
+    {% endfor %}
+  </ul>
+
+  <h1 class="post-title">Dostupni profili</h1>
+
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
