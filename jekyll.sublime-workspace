@@ -15,6 +15,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_pages/kompanije.md",
+			"settings":
+			{
+				"buffer_size": 1577,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -23,10 +32,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "",
+		"height": 107.0,
+		"last_filter": "set mar",
 		"selected_items":
 		[
+			[
+				"set mar",
+				"Set Syntax: Markdown"
+			],
 			[
 				"je",
 				"Jekyll: New post"
@@ -64,20 +77,30 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/cedomirovic/Desktop/jekyll"
+		"/Users/cedomirovic/Desktop/jekyll",
+		"/Users/cedomirovic/Desktop/jekyll/_includes",
+		"/Users/cedomirovic/Desktop/jekyll/_layouts",
+		"/Users/cedomirovic/Desktop/jekyll/_pages",
+		"/Users/cedomirovic/Desktop/jekyll/_posts",
+		"/Users/cedomirovic/Desktop/jekyll/_sass",
+		"/Users/cedomirovic/Desktop/jekyll/css"
 	],
 	"file_history":
 	[
-		"/Users/cedomirovic/Desktop/jekyll/_includes/header.html",
-		"/Users/cedomirovic/Desktop/jekyll/_pages/kontakt.md",
+		"/Users/cedomirovic/Desktop/jekyll/_pages/inzenjeri.md",
+		"/Users/cedomirovic/Desktop/jekyll/index.html",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje copy 2.md",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje copy 3.md",
 		"/Users/cedomirovic/Desktop/jekyll/_includes/footer.html",
+		"/Users/cedomirovic/Desktop/jekyll/_config.yml",
+		"/Users/cedomirovic/Desktop/jekyll/_sass/_layout.scss",
+		"/Users/cedomirovic/Desktop/jekyll/_includes/header.html",
+		"/Users/cedomirovic/Desktop/jekyll/_pages/oprojektu.md",
+		"/Users/cedomirovic/Desktop/jekyll/_pages/kontakt.md",
 		"/Users/cedomirovic/Desktop/jekyll/_includes/pagination.html",
 		"/Users/cedomirovic/Desktop/jekyll/_includes/mailchimp.html",
 		"/Users/cedomirovic/Desktop/jekyll/_layouts/post.html",
-		"/Users/cedomirovic/Desktop/jekyll/_config.yml",
 		"/Users/cedomirovic/pool/_config.yml",
-		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje copy 2.md",
-		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje copy 3.md",
 		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje copy 4.md",
 		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje copy 5.md",
 		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje copy.md",
@@ -85,7 +108,6 @@
 		"/Users/cedomirovic/Desktop/jekyll/_includes/color-bar.html",
 		"/Users/cedomirovic/Desktop/jekyll/_pages/about.md",
 		"/Users/cedomirovic/Desktop/jekyll/_pages/contact.md",
-		"/Users/cedomirovic/Desktop/jekyll/index.html",
 		"/Users/cedomirovic/Desktop/jekyll/README.md",
 		"/Users/cedomirovic/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
 		"/Users/cedomirovic/Library/Application Support/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
@@ -135,7 +157,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -150,6 +172,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"site-title",
 			"via",
 			"post",
 			"include",
@@ -211,8 +234,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_pages/kompanije.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1149,
+								1149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],

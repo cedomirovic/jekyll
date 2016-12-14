@@ -3,23 +3,24 @@ layout: page
 permalink: /kompanije/
 ---
 
-Oglas mora da ima:
+Oglas treba da sadrži:
 ---------------------
 
 > - Opis kompanije u max 140 karaktera
 - Opis pozicije u max 140 karaktera
-- Opis odgovornosti koji pozicija iziskuje u max 140 karaktera
+- Opis odgovornosti koji pozicija nosi u max 140 karaktera
 - Lokaciju sa koje bi se posao obavljao
-- Minimalnu platu koju zaposleni može da očekuje na toj poziciji
+- Minimalnu zaradu koju zaposleni može da očekuje na toj poziciji
 
 
-Oglas ne sme da ima:
+Oglas ne treba da sadrži:
 ---------------------
 
->- Nudimo Competitive salary (pogledati poslednju stavku u pasusu iznad)
-- Nudimo teambuilding događaje (ovo vam je stvarno bitno kada nekoga zapošljavate?)
-- Nudimo dinamično radno okruženje (šta to uopšte znači?)
-- Uslov da kandidat ima fakultetsku ili bilo koju drugu diplomu (valjda ste osmisli sistem ocenjivanja i odabira kandidata na osnovu znanja ne papira)
+>- Nudimo Competitive salary (Pogledati poslednju stavku u pasusu iznad)
+- Nudimo teambuilding događaje (Da li vam je ovo zaista bitno kada nekoga zapošljavate?)
+- Nudimo dinamično radno okruženje (Šta to uopšte znači?)
+- Uslov da kandidat ima fakultetsku ili bilo koju drugu diplomu (Trebalo bi da osmislite sistem ocenjivanja i odabira kandidata na osnovu znanja, ne papira
+)
 - Dobro radite pod pritiskom (!?)
 - 5+/3+/XYZ godina iskustva u radu sa XYZ tehnologijom
 - Gramatički neispravne oglase 
@@ -28,9 +29,9 @@ Oglas ne sme da ima:
 Dodatni saveti:
 ---------------------
 
->- Pošaljite odgovor svim kandidatima o statusu (bilo da su primljeni, još uvek se radi procena ili nisu primljeni)
+>- Pošaljite odgovor svim kandidatima o statusu (Bilo da su primljeni, još uvek se radi procena ili nisu primljeni)
 - Budite kreativni prilikom pisanja i opisivanja
-- Ne budite klasičana HR kompanija, pitajte kolege sa kojima će potencijalni kadidat raditi kakav profil osobe žele, njihovo mišljenje je bitno
+- Pitajte kolege sa kojima će potencijalni kandidat raditi kakav profil osobe žele, njihovo mišljenje je važno
 
 
 Primeri dobro napisanih oglasa:
