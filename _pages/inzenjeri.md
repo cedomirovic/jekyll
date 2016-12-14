@@ -14,7 +14,7 @@ Prijava treba da sadrži:
 - Sređen i pravilno postavljen avatar
 
 
-Prijava ne sme da ima:
+Prijava ne treba da sadrži:
 ---------------------
 
 >- Razraditi
