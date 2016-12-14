@@ -29,7 +29,7 @@ Oglas ne treba da sadrži:
 Dodatni saveti:
 ---------------------
 
->- Pošaljite odgovor svim kandidatima o statusu (Bilo da su primljeni, još uvek se radi procena ili nisu primljeni)
+>- Pošaljite odgovor svim kandidatima o statusu (Bilo da su primljeni, procena je još uvek u toku ili nisu primljeni)
 - Budite kreativni prilikom pisanja i opisivanja
 - Pitajte kolege sa kojima će potencijalni kandidat raditi kakav profil osobe žele, njihovo mišljenje je važno
 
