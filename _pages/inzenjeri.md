@@ -15,7 +15,7 @@ Ako želiš da se tvoj profil nađe na ovoj stranici potrebno je ispuniti dva vr
 - Kratki opis dosadašnjeg radnog iskustva kojim se ponosite u max 140 karaktera 
 - Sređen LinkedIn profil
 - Sređen Github profil (Ako je u pitanju programerski profil)
-- Sređen CV
+- Sređen CV na max 3 A4 strane
 - Minimalnu očekivanu neto mesečnu naknadu ili minimalnu visinu radnog sata
 
 
@@ -28,7 +28,7 @@ Ako želiš da se tvoj profil nađe na ovoj stranici potrebno je ispuniti dva vr
 - Gramatičke greške
 
 
-## Dodatni saveti:
+## Dodatni saveti:	
 
 
 >- Potrudite se da vaša e-mail adresa bude u formatu *ime.prezime@mail.com* ili slična kombinacija
