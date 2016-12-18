@@ -14,6 +14,8 @@ Ako želiš da se tvoj profil nađe na ovoj stranici potrebno je ispuniti dva vr
 > - Kratko predstavljanje u max 140 karaktera
 - Kratak opis vaših relevantnih veština koje posedujete u max 140 karaktera
 - Kratki opis dosadašnjeg radnog iskustva kojim se ponosite u max 140 karaktera 
+- Lokaciju sa koje bi se posao obavljao
+- Način zaposlenja/saradnje (full time, part time, freelance, praksa)
 - Sređen LinkedIn profil
 - Sređen GitHub profil (Ako je u pitanju programerski profil)
 - Sređen CV na max 3 A4 strane

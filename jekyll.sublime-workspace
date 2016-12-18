@@ -19,16 +19,7 @@
 			"file": "_pages/kompanije.md",
 			"settings":
 			{
-				"buffer_size": 1563,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_pages/inzenjeri.md",
-			"settings":
-			{
-				"buffer_size": 772,
+				"buffer_size": 1815,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -43,10 +34,19 @@
 			}
 		},
 		{
-			"file": "_pages/oprojektu.md",
+			"file": "_pages/inzenjeri.md",
 			"settings":
 			{
-				"buffer_size": 2306,
+				"buffer_size": 1690,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 468,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -106,13 +106,14 @@
 	[
 		"/Users/cedomirovic/Desktop/jekyll",
 		"/Users/cedomirovic/Desktop/jekyll/_includes",
+		"/Users/cedomirovic/Desktop/jekyll/_layouts",
 		"/Users/cedomirovic/Desktop/jekyll/_pages",
-		"/Users/cedomirovic/Desktop/jekyll/_posts",
-		"/Users/cedomirovic/Desktop/jekyll/_sass",
-		"/Users/cedomirovic/Desktop/jekyll/css"
+		"/Users/cedomirovic/Desktop/jekyll/_posts"
 	],
 	"file_history":
 	[
+		"/Users/cedomirovic/Desktop/jekyll/_pages/oprojektu.md",
+		"/Users/cedomirovic/Desktop/jekyll/_pages/kompanije.md",
 		"/Users/cedomirovic/Desktop/jekyll/_pages/inzenjeri.md",
 		"/Users/cedomirovic/Desktop/jekyll/index.html",
 		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje copy 2.md",
@@ -121,7 +122,6 @@
 		"/Users/cedomirovic/Desktop/jekyll/_config.yml",
 		"/Users/cedomirovic/Desktop/jekyll/_sass/_layout.scss",
 		"/Users/cedomirovic/Desktop/jekyll/_includes/header.html",
-		"/Users/cedomirovic/Desktop/jekyll/_pages/oprojektu.md",
 		"/Users/cedomirovic/Desktop/jekyll/_pages/kontakt.md",
 		"/Users/cedomirovic/Desktop/jekyll/_includes/pagination.html",
 		"/Users/cedomirovic/Desktop/jekyll/_includes/mailchimp.html",
@@ -261,7 +261,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -270,58 +270,30 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1563,
+						"buffer_size": 1815,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								994,
-								994
+								1546,
+								1546
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 167.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "_pages/inzenjeri.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 772,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								505,
-								505
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "_includes/header.html",
 					"semi_transient": true,
 					"settings":
@@ -333,8 +305,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								71,
+								90
 							]
 						],
 						"settings":
@@ -347,29 +319,59 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "_pages/oprojektu.md",
+					"buffer": 2,
+					"file": "_pages/inzenjeri.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2306,
+						"buffer_size": 1690,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2288,
-								2288
+								1023,
+								1023
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 468,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
