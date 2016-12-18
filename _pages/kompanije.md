@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /kompanije/
+title: "Kompanije"
 ---
 
 Ako želiš da se tvoj oglas nađe na ovoj stranici potrebno je ispuniti dva vrlo jednostavna uslova:

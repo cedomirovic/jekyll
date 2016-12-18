@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /inzenjeri/
+title: "Inženjeri"
 ---
 
 > **Važno:**
