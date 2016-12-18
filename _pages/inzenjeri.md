@@ -14,7 +14,7 @@ Ako želiš da se tvoj profil nađe na ovoj stranici potrebno je ispuniti dva vr
 - Kratak opis vaših relevantnih veština koje posedujete u max 140 karaktera
 - Kratki opis dosadašnjeg radnog iskustva kojim se ponosite u max 140 karaktera 
 - Sređen LinkedIn profil
-- Sređen Github profil (Ako je u pitanju programerski profil)
+- Sređen GitHub profil (Ako je u pitanju programerski profil)
 - Sređen CV na max 3 A4 strane
 - Minimalnu očekivanu neto mesečnu naknadu ili minimalnu visinu radnog sata
 
