@@ -18,8 +18,6 @@ Ako želiš da se tvoj profil nađe na ovoj stranici potrebno je ispuniti dva vr
 - Sređen CV na max 3 A4 strane
 - Minimalnu očekivanu neto mesečnu naknadu ili minimalnu visinu radnog sata
 
-
-
 ## Uslov 2 - Prijava ne treba da sadrži:
 
 >- Nerelevantne informacije za oglas za koji se prijavljujete
@@ -30,14 +28,13 @@ Ako želiš da se tvoj profil nađe na ovoj stranici potrebno je ispuniti dva vr
 
 ## Dodatni saveti:	
 
-
 >- Potrudite se da vaša e-mail adresa bude u formatu *ime.prezime@mail.com* ili slična kombinacija
 - Ako niste programer, sredite vaš online portfolio, koji god da koristite 
 - CV šaljite kao .PDF fajl
-- Pišite čitko i razumljivo
+- Pišite čitko i razumljivo 
 
-Jedino profili koji su ispunili dva navedena uslova će biti objavljeni na sajtu, svi ostali neće biti uzeti u razmatranje. 
-
-> **Prijava:**
-- Svoj profil prema navedenim uslovima možete poslati na adresi cedomirovicnemanja[at]gmail.com
+## Prijava:
+> 
+- Svoj profil prema navedenim uslovima možete poslati na adresi **cedomirovicnemanja[at]gmail.com**
 - Na sajtu će biti objavljene samo one informacije koje su relevante za kompanije. Sve osetljive informacije neće biti javno dostupne.
+- Jedino profili koji su ispunili dva navedena uslova će biti objavljeni na sajtu, svi ostali neće biti uzeti u razmatranje.

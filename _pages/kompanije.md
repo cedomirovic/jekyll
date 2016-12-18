@@ -46,4 +46,7 @@ Ako želiš da se tvoj oglas nađe na ovoj stranici potrebno je ispuniti dva vrl
 >
 ![](/images/oglas3.png "Oglas 3")
 
-Jedino oglasi koji su ispunili dva navedena uslova će biti objavljeni na sajtu, svi ostali neće biti uzeti u razmatranje. 
+## Prijava:
+> 
+- Svoj oglas prema navedenim uslovima možete poslati na adresi **cedomirovicnemanja[at]gmail.com**
+- Jedino oglasi koji su ispunili dva navedena uslova će biti objavljeni na sajtu, svi ostali neće biti uzeti u razmatranje. 
