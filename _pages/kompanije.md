@@ -37,15 +37,15 @@ Ako želiš da se tvoj oglas nađe na ovoj stranici potrebno je ispuniti dva vrl
 
 #### - Oglas 1
 >
-![](/images/oglas1.png "Oglas 1")
+![]({{ site.baseurl }}/images/oglas1.png "Oglas 1")
 
 #### - Oglas 2
 >
-![](/images/oglas2.png "Oglas 2")
+![]({{ site.baseurl }}/images/oglas2.png "Oglas 2")
 
 #### - Oglas 3
 >
-![](/images/oglas3.png "Oglas 3")
+![]({{ site.baseurl }}/images/oglas3.png "Oglas 3")
 
 ## Prijava:
 > 
