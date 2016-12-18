@@ -19,7 +19,34 @@
 			"file": "_pages/kompanije.md",
 			"settings":
 			{
-				"buffer_size": 1577,
+				"buffer_size": 1563,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_pages/inzenjeri.md",
+			"settings":
+			{
+				"buffer_size": 772,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/header.html",
+			"settings":
+			{
+				"buffer_size": 611,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_pages/oprojektu.md",
+			"settings":
+			{
+				"buffer_size": 2306,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -79,7 +106,6 @@
 	[
 		"/Users/cedomirovic/Desktop/jekyll",
 		"/Users/cedomirovic/Desktop/jekyll/_includes",
-		"/Users/cedomirovic/Desktop/jekyll/_layouts",
 		"/Users/cedomirovic/Desktop/jekyll/_pages",
 		"/Users/cedomirovic/Desktop/jekyll/_posts",
 		"/Users/cedomirovic/Desktop/jekyll/_sass",
@@ -172,6 +198,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"profesnilano",
 			"site-title",
 			"via",
 			"post",
@@ -234,7 +261,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -243,15 +270,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1577,
+						"buffer_size": 1563,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1149,
-								1149
+								994,
+								994
 							]
 						],
 						"settings":
@@ -262,7 +289,93 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_pages/inzenjeri.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								505,
+								505
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_includes/header.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_pages/oprojektu.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2288,
+								2288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
