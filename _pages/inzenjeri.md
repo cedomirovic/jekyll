@@ -29,7 +29,7 @@ Ako želiš da se tvoj profil nađe na ovoj stranici potrebno je ispuniti dva vr
 
 ## Dodatni saveti:	
 
->- Potrudite se da vaša e-mail adresa bude u formatu *ime.prezime@mail.com* ili slična kombinacija
+>- Prilikom prijave potrudite se da vaša e-mail adresa bude u formatu *ime.prezime@mail.com* ili slična kombinacija
 - Ako niste programer, sredite vaš online portfolio, koji god da koristite 
 - CV šaljite kao .PDF fajl
 - Pišite čitko i razumljivo 
