@@ -4,5 +4,5 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
-Ako imate neki komentar, kritiku, savet, predloge, pišite na cedomirovicnemanja [at] gmail.com
+Ako imate neki komentar, kritiku, savet, predlog, pišite na cedomirovicnemanja [at] gmail.com
 

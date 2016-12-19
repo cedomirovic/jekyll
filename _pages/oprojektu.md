@@ -12,7 +12,7 @@ Pored pomenutih zajednica i projekata učestvujem i u **[IT Girls](http://itgirl
 Zaposlen sam u kompaniji **[Bosch](http://www.bosch.com/en/com/home/index.php){:target="_blank"}** kao deo tima koji je zadužen za agilnu transformaciju kompanije. 
 
 Svi ovi projekti, bilo da sam ih ja pokrenuo ili bio deo njih doneli su mi preko pet godina iskustva u IT svetu. Nije to toliko puno, ali sasvim dovoljno da za to vreme upoznam mnoge fantastične osobe, sjajne profesionalce, ozbiljne kompanije, neverovatne pojedince, ali nažalost i drugu stranu medalje. Mnoge kompanije nisu toliko ozbiljne, a dosta pojedinaca se ne ponaša ni približno profesionalno kako naša struka nalaže.
-Ti ne tako sjajni primeri u 99% slučajeva ogledaju se prilikom objave IT oglasa neke kompanije, ili prijave nekog IT stručnjaka na isti.
+Ti, ne tako sjajni, primeri u 99% slučajeva ogledaju se prilikom objave IT oglasa neke kompanije, ili prijave nekog IT stručnjaka na isti.
 
 Misija ovog projekta je da redefiniše način pisanja i objave, kao i način prijave na IT oglase. Sa jedne strane, kompanije moraju radikalno da promene opise poslova koje nude, jer sadržaj oglasa za posao već postaje predmet podsmeha. Sa druge strane, osobe koje žele da dobiju posao, ili menjaju trenutni, moraju se ponašati profesionalno i biti profesionalci u svakom trenutku.
 
