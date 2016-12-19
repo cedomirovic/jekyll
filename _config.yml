@@ -25,6 +25,9 @@ paginate: 5
 paginate_path: /page:num/
 
 
+# Tracker
+analytics: UA-89269706-1
+
 # Comments
 disqus-shortname: webjeda-demo
 
