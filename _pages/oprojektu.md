@@ -18,7 +18,7 @@ Misija ovog projekta je da redefiniše način pisanja i objave, kao i način pri
 
 
 Na stranici **[kompanije](https://cedomirovic.github.io/jekyll/kompanije/)** možete pronaći savete kako napisati dobar IT oglas. 
-Stranica **[inženjeri](https://cedomirovic.github.io/jekyll/inzenjeri/)** služi da objasni kako se prijaviti na neki IT oglas i na koji način se profesionalno predstaviti. Dok na **[početnoj](https://cedomirovic.github.io/jekyll/)** stranici možete videti trenutno dostupne oglase ili profile stručnjaka. 
+Stranica **[stručnjaci](https://cedomirovic.github.io/jekyll/strucnjaci/)** služi da objasni kako se prijaviti na neki IT oglas i na koji način se profesionalno predstaviti. Dok na **[početnoj](https://cedomirovic.github.io/jekyll/)** stranici možete videti trenutno dostupne oglase ili profile stručnjaka. 
 
 Ideja nije da se omalovaži bilo koja kompanija ili inženjer, već da svi zajedno doprinesemo da ovaj naš mali IT svet na Balkanu bude mesto gde imamo fantastične, kreativne, sposobne profesionalce sa obe strane stola. 
 

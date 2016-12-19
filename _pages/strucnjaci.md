@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /inzenjeri/
-title: "Inženjeri"
+permalink: /strucnjaci/
+title: "Stručnjaci"
 ---
 
 > **Važno:**
@@ -19,7 +19,6 @@ Ako želiš da se tvoj profil nađe na ovoj stranici potrebno je ispuniti dva vr
 - Sređen LinkedIn profil
 - Sređen GitHub profil (Ako je u pitanju programerski profil)
 - Sređen CV na max 3 A4 strane
-- Minimalnu očekivanu neto mesečnu naknadu ili minimalnu visinu radnog sata
 
 ## Uslov 2 - Prijava ne treba da sadrži:
 

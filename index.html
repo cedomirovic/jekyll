@@ -6,7 +6,7 @@ layout: default
 
   <h1 class="post-title">IT oglasi i profili</h1>
 
-    <ul class="post-list">
+<!--     <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
         <h2>
@@ -17,6 +17,25 @@ layout: default
       </li>
 
     {% endfor %}
-  </ul>
+  </ul> -->
+
+<div id="archives">
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <p></p>
+    
+    <h3 class="category-head">{{ category_name }}</h3>
+    <a name="{{ category_name | slugize }}"></a>
+    {% for post in site.categories[category_name] %}
+    <article class="archive-item">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> <span class="post-meta"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span></h4>
+    </article>
+    {% endfor %}
+  </div>
+{% endfor %}
+</div> 
+
 
 {% include pagination.html %}
