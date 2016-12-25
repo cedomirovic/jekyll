@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: 'Source Serif Pro', serif;
+$base-font-family: 'Roboto', serif;
 $base-font-size:   20px;
 $title-font-size: {{site.title-font-size}};
 
@@ -49,8 +49,8 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout"
+    "base",
+    "layout"
 ;
 
 .site-nav .active{
