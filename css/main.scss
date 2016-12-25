@@ -53,6 +53,11 @@ $on-laptop:        800px;
     "layout"
 ;
 
-.site-nav .active{
-    border-bottom:2px solid #bada55;
-  }
+.site-nav {
+    a {
+        padding: 0 10px;
+    }
+    .active {
+        color: darken($brand-color, 30%);        
+    }
+}
