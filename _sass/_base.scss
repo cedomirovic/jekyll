@@ -120,19 +120,20 @@ h5{
 h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
     font-family: 'Roboto', cursive, sans-serif;
-    &.highlight-left {
-        position: relative;
-        background-color: rgba(167, 211, 166, 0.32);
-        padding-left: 10px;
-        &:before {
-            position: absolute;
-            left: 0;
-            top: 0;
-            content: '';
-            height: 100%;
-            width: 5px;
-            background-color: $text-color;
-        }
+}
+
+.highlight-left, blockquote {
+    position: relative;
+    background-color: rgba(167, 211, 166, 0.32);
+    padding-left: 10px;
+    &:before {
+        position: absolute;
+        left: 0;
+        top: 0;
+        content: '';
+        height: 100%;
+        width: 5px;
+        background-color: $text-color;
     }
 }
 
@@ -162,15 +163,13 @@ h1, h2, h3, h4, h5, h6 {
  blockquote {
     font-family: serif;
     color: $grey-color;
-    border: 1px solid $grey-color-light;
-    border-left: 4px solid $brand-color;
-    padding-left: $spacing-unit / 2;
-    font-style: italic;
-    margin-left: 1em;
-
-    > :last-child {
-        margin-bottom: 0;
-    }
+    // border: 1px solid $grey-color-light;
+    // border-left: 4px solid $brand-color;
+    // padding-left: $spacing-unit / 2;
+    // font-style: italic;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 
