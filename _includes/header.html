@@ -1,5 +1,4 @@
-
-  <header class="site-header">
+<header class="site-header">
 
   <div class="wrapper">
 
@@ -7,12 +6,12 @@
     <h3 class="site-description">{{ site.description }}</h3>
 
     <nav class="site-nav">
-    <li {% if page.url == '/' %} class="active" {% endif %}><a href="/">Početna</a></li>
-    <li{% if page.url == '/kompanije/' %} class="active"{% endif %}><a href="{{site.baseurl}}/kompanije/">Kompanije</a></li>
-    <li{% if page.url == '/strucnjaci/' %} class="active"{% endif %}><a href="{{site.baseurl}}/strucnjaci/">Stručnjaci</a></li>
-    <li{% if page.url == '/oprojektu/' %} class="active"{% endif %}><a href="{{site.baseurl}}/oprojektu/">O projektu</a></li>
-    <li{% if page.url == '/kontakt/' %} class="active"{% endif %}><a href="{{site.baseurl}}/kontakt/">Kontakt</a></li>
-
+      <a {% if page.url == '/' %} class="active" {% endif %} href="/">Početna</a>
+      <a {% if page.url == '/kompanije/' %} class="active" {% endif %} href="{{site.baseurl}}/kompanije/">Kompanije</a>
+      <a {% if page.url == '/strucnjaci/' %} class="active" {% endif %} href="{{site.baseurl}}/strucnjaci/">Stručnjaci</a>
+      <a {% if page.url == '/oprojektu/' %} class="active" {% endif %} href="{{site.baseurl}}/oprojektu/">O projektu</a>
+      <a {% if page.url == '/kontakt/' %} class="active" {% endif %} href="{{site.baseurl}}/kontakt/">Kontakt</a>
+    </nav>
   </div>
 
 </header>
