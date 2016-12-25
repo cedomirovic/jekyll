@@ -16,37 +16,26 @@
 	"buffers":
 	[
 		{
-			"file": "_pages/kompanije.md",
 			"settings":
 			{
-				"buffer_size": 1815,
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/analytics.html",
+			"settings":
+			{
+				"buffer_size": 419,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_includes/header.html",
+			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 611,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_pages/inzenjeri.md",
-			"settings":
-			{
-				"buffer_size": 1800,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 468,
+				"buffer_size": 1222,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -59,8 +48,8 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 107.0,
-		"last_filter": "set mar",
+		"height": 29.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -84,7 +73,7 @@
 				"Set Syntax: YAML"
 			]
 		],
-		"width": 449.0
+		"width": 378.0
 	},
 	"console":
 	{
@@ -112,20 +101,26 @@
 	],
 	"file_history":
 	[
-		"/Users/cedomirovic/Desktop/jekyll/_pages/oprojektu.md",
 		"/Users/cedomirovic/Desktop/jekyll/_pages/kompanije.md",
-		"/Users/cedomirovic/Desktop/jekyll/_pages/inzenjeri.md",
+		"/Users/cedomirovic/Desktop/jekyll/_pages/oprojektu.md",
+		"/Users/cedomirovic/Desktop/jekyll/_pages/strucnjaci.md",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-19-qaana.md",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-19-oglas.md",
+		"/Users/cedomirovic/Desktop/jekyll/_pages/categories.html",
 		"/Users/cedomirovic/Desktop/jekyll/index.html",
+		"/Users/cedomirovic/Desktop/jekyll/_includes/header.html",
+		"/Users/cedomirovic/Desktop/jekyll/_config.yml",
+		"/Users/cedomirovic/Desktop/jekyll/_layouts/post.html",
+		"/Users/cedomirovic/Desktop/jekyll/_pages/kontakt.md",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-11-25-ana.md",
+		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-19-anaqa.md",
+		"/Users/cedomirovic/Desktop/jekyll/_pages/inzenjeri.md",
 		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje copy 2.md",
 		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje copy 3.md",
 		"/Users/cedomirovic/Desktop/jekyll/_includes/footer.html",
-		"/Users/cedomirovic/Desktop/jekyll/_config.yml",
 		"/Users/cedomirovic/Desktop/jekyll/_sass/_layout.scss",
-		"/Users/cedomirovic/Desktop/jekyll/_includes/header.html",
-		"/Users/cedomirovic/Desktop/jekyll/_pages/kontakt.md",
 		"/Users/cedomirovic/Desktop/jekyll/_includes/pagination.html",
 		"/Users/cedomirovic/Desktop/jekyll/_includes/mailchimp.html",
-		"/Users/cedomirovic/Desktop/jekyll/_layouts/post.html",
 		"/Users/cedomirovic/pool/_config.yml",
 		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje copy 4.md",
 		"/Users/cedomirovic/Desktop/jekyll/_posts/2016-12-12-redefinisanje copy 5.md",
@@ -183,7 +178,7 @@
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -198,6 +193,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Inženjeri",
+			"Svoj oglas prema navedenim uslovima možete poslati na adresi",
 			"profesnilano",
 			"site-title",
 			"via",
@@ -261,59 +258,28 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_pages/kompanije.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1815,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								373,
-								336
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_includes/header.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 611,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								71,
-								90
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -323,25 +289,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "_pages/inzenjeri.md",
+					"buffer": 1,
+					"file": "_includes/analytics.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1800,
+						"buffer_size": 419,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								868,
-								868
+								419,
+								419
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -351,33 +317,31 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "index.html",
+					"buffer": 2,
+					"file": "_config.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 468,
+						"buffer_size": 1222,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								81,
-								81
+								951,
+								951
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
