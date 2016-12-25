@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Oglas] XYZ"
+title:  "[Oglas] XYZ3"
 categories: Oglasi
 date:   2016-12-19 08:34:56
 ---
