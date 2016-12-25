@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "[Oglas] XYZ"
+categories: Oglasi
+date:   2016-12-19 08:34:56
+---
+
+**Kratko predstavljanje u max 140 karaktera**
+- QA Specialist with 10+ years of experience in the IT industry.
+
+**Kratak opis vaših relevantnih veština koje posedujete u max 140 karaktera**
+- Software Testing Skills: Functional Testing, Non Functional Testing, Automation Testing.
+
+**Kratki opis dosadašnjeg radnog iskustva kojim se ponosite u max 140 karaktera**
+- Various international projects. Working closely with management on hiring and growing QA individuals and teams. Organizing educational processes.
+
+**Lokaciju sa koje bi se posao obavljao**
+- Niš
+
+**Način zaposlenja/saradnje**
+- Full Time/Freelance
+
+## Kontakt profila:
+> 
+- Ako vam profil zvuči interesantno, ili želite više informacija, kontaktirajte nas putem adrese **cedomirovicnemanja[at]gmail.com**
