@@ -169,11 +169,14 @@ h1, h2, h3, h4, h5, h6 {
     // font-style: italic;
     margin-left: 10px;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     font-size: 15px;
+    ul {
+        margin-bottom: 0
+    }
     li {
         padding: 0;
-        margin: 0 0 5px;
+        margin: 0;
     }
 }
 
